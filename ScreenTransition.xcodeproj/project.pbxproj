@@ -11,6 +11,7 @@
 		785C697C2ADABBD30007BE29 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785C697B2ADABBD30007BE29 /* ContentView.swift */; };
 		785C697E2ADABBD50007BE29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 785C697D2ADABBD50007BE29 /* Assets.xcassets */; };
 		785C69812ADABBD50007BE29 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 785C69802ADABBD50007BE29 /* Preview Assets.xcassets */; };
+		785C69882ADABC560007BE29 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785C69872ADABC560007BE29 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		785C697B2ADABBD30007BE29 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		785C697D2ADABBD50007BE29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		785C69802ADABBD50007BE29 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		785C69872ADABC560007BE29 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				785C69792ADABBD30007BE29 /* ScreenTransitionApp.swift */,
 				785C697B2ADABBD30007BE29 /* ContentView.swift */,
+				785C69872ADABC560007BE29 /* SecondView.swift */,
 				785C697D2ADABBD50007BE29 /* Assets.xcassets */,
 				785C697F2ADABBD50007BE29 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				785C69882ADABC560007BE29 /* SecondView.swift in Sources */,
 				785C697C2ADABBD30007BE29 /* ContentView.swift in Sources */,
 				785C697A2ADABBD30007BE29 /* ScreenTransitionApp.swift in Sources */,
 			);
